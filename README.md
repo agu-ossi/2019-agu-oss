@@ -1,8 +1,7 @@
-# Best practices for modern open-source research codes (WS24)
-
+# Best practices for modern open-source research codes
 Material for the workshop at the AGU 2018 Fall Meeting.
 
-Presenters/Conveners:
+**Conveners:**
 Leonardo Uieda,
 Lindsey Heagy,
 Lion Krischer,
@@ -10,9 +9,9 @@ Florian M. Wagner
 
 |    |Info|
 |---:|:---|
-|Location|Grand Hyatt -- Room: Penn Quarter|
+|Location|Grand Hyatt / Room: Penn Quarter|
 |Time|Wednesday, 12 December 2018 / 13:40 - 18:00|
-|Room|Convention Ctr - Hall A-C (Poster Hall)|
+|Workshop ID|WS24|
 
 ## Description
 
