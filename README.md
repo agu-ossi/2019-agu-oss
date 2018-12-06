@@ -61,9 +61,6 @@ Our aim with this workshop is for participants to:
 If you would like to follow along interactively during the course, please do the following before the course starts:
 - Download and install [Anaconda](https://www.anaconda.com/download/). Use the latest version of Python 3 and be sure to check the box that says "Add Anaconda to my PATH environment variable"
 ![AnacondaPath](http://toolkit.geosci.xyz/_images/AnacondaPath.png)
-- If you do not already have one, set up 
-    - a [GitHub account](https://github.com/) and
-    - a [ReadTheDocs account](https://readthedocs.org/)
-
+- If you do not already have one, set up a [GitHub account](https://github.com/) and
 
 ## License
