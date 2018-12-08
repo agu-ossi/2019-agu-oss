@@ -48,7 +48,7 @@ Our aim with this workshop is for participants to:
 | 15 | Introduce the motivations and problems that the workshop will address | TODO: link notebook we will use |
 | 30 | Describe the example we will working through and provide an overview of the Jupyter notebook | [Jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/) |
 | 45 | Overview of version control with git and setting up an online repository | [GitHub](https://github.com/) |
-| 45 | How to setup a small Python library (though the example is in python, participants are encouraged to use their own research code in whichever language they prefer) | [Hitchhiker's guide to packaging](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html) |
+| 45 | How to setup a small Python library (though the example is in python, participants are encouraged to use their own research code in whichever language they prefer) | [Scientific Python Cookiecutter](https://nsls-ii.github.io/scientific-python-cookiecutter/index.html) |
 | 15 | Discussion on choosing an open-source license | [Choose a license](https://choosealicense.com/), [OSI Licenses](https://opensource.org/licenses) |
 | 15 | Including a Code of Conduct and Contributing Guidelines | [Contributor Covenant](https://www.contributor-covenant.org/) |
 | 30 | How to write automated tests in Python | [Pytest](https://docs.pytest.org/en/latest/contents.html) |
