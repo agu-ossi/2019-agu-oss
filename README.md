@@ -33,7 +33,8 @@ programming language or scientific discipline.
 Our aim with this workshop is for participants to:
 
 1. Gain awareness of tools available to researchers within the open-source ecosystem
-   including Jupyter, git, ReadTheDocs, continuous integration services (for testing), etc
+   including [Jupyter](http://jupyter.org/), [git](https://git-scm.com/), 
+   [ReadTheDocs](http://readthedocs.org), continuous integration services (for testing), etc
 2. Learn modern best-practices for structuring a repository for research software that
    promotes accessibility, reusability, and reproducibility
 3. Learn about the tools available for testing, publishing documentation, and versioning
@@ -42,18 +43,18 @@ Our aim with this workshop is for participants to:
 
 ## Tentative Agenda
 
-| Duration (min) | Topic |
-|:--------------:|:------|
-| 15 | Introduce the motivations and problems that the workshop will address |
-| 30 | Describe the example we will working through and provide an overview of the Jupyter notebook |
-| 45 | Overview of version control with git and setting up an online repository |
-| 45 | How to setup a small Python library (though the example is in python, participants are encouraged to use their own research code in whichever language they prefer) |
-| 15 | Discussion on choosing an open-source license |
-| 15 | Including a Code of Conduct and Contributing Guidelines |
-| 30 | How to write automated tests in Python |
-| 30 | Setup continuous integration services to check that the code is tested on every update |
-| 30 | Write and publish documentation on ReadTheDocs, a free hosting service for open source software projects |
-| 15 | Overview of other resources available within the open source community |
+| Duration (min) | Topic | Tools |
+|:--------------:|:------|:------|
+| 15 | Introduce the motivations and problems that the workshop will address | TODO: link notebook we will use |
+| 30 | Describe the example we will working through and provide an overview of the Jupyter notebook | [Jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/) |
+| 45 | Overview of version control with git and setting up an online repository | [GitHub](https://github.com/) |
+| 45 | How to setup a small Python library (though the example is in python, participants are encouraged to use their own research code in whichever language they prefer) | [Scientific Python Cookiecutter](https://nsls-ii.github.io/scientific-python-cookiecutter/index.html) |
+| 15 | Discussion on choosing an open-source license | [Choose a license](https://choosealicense.com/), [OSI Licenses](https://opensource.org/licenses) |
+| 15 | Including a Code of Conduct and Contributing Guidelines | [Contributor Covenant](https://www.contributor-covenant.org/) |
+| 30 | How to write automated tests in Python | [Pytest](https://docs.pytest.org/en/latest/contents.html) |
+| 30 | Setup continuous integration services to check that the code is tested on every update | [TravisCI](https://travis-ci.org/), [CircleCI](https://circleci.com/), [Appveyor](https://www.appveyor.com/) |
+| 30 | Write and publish documentation on ReadTheDocs, a free hosting service for open source software projects | [ReadTheDocs](http://readthedocs.org) |
+| 15 | Overview of other resources available within the open source community | |
 
 
 ## Before you come
