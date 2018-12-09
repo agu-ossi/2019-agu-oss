@@ -59,8 +59,10 @@ Our aim with this workshop is for participants to:
 ## Before you come
 
 If you would like to follow along interactively during the course, please do the following before the course starts:
-- Download and install [Anaconda](https://www.anaconda.com/download/). Use the latest version of Python 3 and be sure to check the box that says "Add Anaconda to my PATH environment variable"
+
+- Download and install [Anaconda](https://www.anaconda.com/download/). Use the latest version of Python 3 and be sure to check the box that says "Add Anaconda to my PATH environment variable" if on Windows.
 ![AnacondaPath](http://toolkit.geosci.xyz/_images/AnacondaPath.png)
-- If you do not already have one, set up a [GitHub account](https://github.com/) and
+- Download and install git. The easiest way to do this is to follow the instructions on the [Software Carpentry website](https://carpentries.github.io/workshop-template/#git).
+- If you do not already have one, set up a free [GitHub account](https://github.com/).
 
 ## License
