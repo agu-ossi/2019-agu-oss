@@ -52,7 +52,7 @@ Our aim with this workshop is for participants to:
 | 15 | Discussion on choosing an open-source license | [Choose a license](https://choosealicense.com/), [OSI Licenses](https://opensource.org/licenses) |
 | 15 | Including a Code of Conduct and Contributing Guidelines | [Contributor Covenant](https://www.contributor-covenant.org/) |
 | 30 | How to write automated tests in Python | [Pytest](https://docs.pytest.org/en/latest/contents.html) |
-| 30 | Setup continuous integration services to check that the code is tested on every update | [TravisCI](https://travis-ci.org/), [CircleCI](https://circleci.com/), [Appveyor](https://www.appveyor.com/) |
+| 30 | Setup continuous integration services to check that the code is tested on every update | [TravisCI](https://docs.travis-ci.com/user/languages/python/) |
 | 30 | Write and publish documentation on ReadTheDocs, a free hosting service for open source software projects | [ReadTheDocs](http://readthedocs.org) |
 | 15 | Overview of other resources available within the open source community | |
 
