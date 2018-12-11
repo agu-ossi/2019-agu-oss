@@ -43,6 +43,12 @@ Our aim with this workshop is for participants to:
 
 ## Tentative Agenda
 
+During the workshop, we'll introduce these topics by working through an example.
+The goal is convert a notebook (or script) that does some data analysis into a 
+Python library that is tested, documented, and can be reused. The final version 
+of the library and a history of each step in the coversion process can be found at
+https://github.com/opengeophysics/2018-agu-oss-example-repo
+
 | Duration (min) | Topic | Tools |
 |:--------------:|:------|:------|
 | 15 | Introduce the motivations and problems that the workshop will address | [Example data analysis in Jupyter](http://nbviewer.jupyter.org/github/opengeophysics/2018-agu-oss/blob/master/example-data-analysis.ipynb) |
