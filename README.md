@@ -33,7 +33,7 @@ programming language or scientific discipline.
 Our aim with this workshop is for participants to:
 
 1. Gain awareness of tools available to researchers within the open-source ecosystem
-   including [Jupyter](http://jupyter.org/), [git](https://git-scm.com/), 
+   including [Jupyter](http://jupyter.org/), [git](https://git-scm.com/),
    [ReadTheDocs](http://readthedocs.org), continuous integration services (for testing), etc
 2. Learn modern best-practices for structuring a repository for research software that
    promotes accessibility, reusability, and reproducibility
@@ -63,14 +63,42 @@ https://github.com/opengeophysics/2018-agu-oss-example-repo
 | 15 | Overview of other resources available within the open source community | |
 
 
-## Before you come
+## *Before* the workshop
 
 If you would like to follow along interactively during the course, please do the following before the course starts:
 
 - Download and install [Anaconda](https://www.anaconda.com/download/). Use the latest version of Python 3 and be sure to check the box that says "Add Anaconda to my PATH environment variable" if on Windows.
+
 ![AnacondaPath](http://toolkit.geosci.xyz/_images/AnacondaPath.png)
 - Download and install git. The easiest way to do this is to follow the instructions on the [Software Carpentry website](https://carpentries.github.io/workshop-template/#git).
 - If you do not already have one, set up a free [GitHub account](https://github.com/).
+
+## *After* the workshop
+
+Since the time allocated for the workshop does not allow to cover scientific
+software development in its entirety, we provide links to some alternatives and
+guides to extend and deepen some of the taught concepts.
+
+### Further reading
+
+- **Version control with Git**
+  - [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
+  - [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+- **Software packing**
+  - [The Hitchhiker's Guide to packaging](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/)
+  
+### Alternatives to the tools presented
+
+- **Version control**
+  - [GitLab](https://www.gitlab.com): Version control for with private repositories and for your own server
+
+- **Continous Integration**
+  - [CircleCI](https://circleci.com): Alternative to Travis (https://circleci.com/circleci-versus-travisci/).
+  - [Jenkins](https://github.com/jenkinsci/jenkins): Continuous integration on your own server. Might come in handy, for computationally more demanding software tests.
+
+- **Documentation**
+  - [MkDocs](https://www.mkdocs.org): Fast and simple project documentation using Markdown.
+
 
 ## License
 
