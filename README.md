@@ -53,7 +53,7 @@ https://github.com/opengeophysics/2018-agu-oss-example-repo
 |:--------------:|:------|:------|
 | 15 | Introduce the motivations and problems that the workshop will address | [Example data analysis in Jupyter](http://nbviewer.jupyter.org/github/opengeophysics/2018-agu-oss/blob/master/example-data-analysis.ipynb) |
 | 30 | Describe the example we will working through and provide an overview of the Jupyter notebook | [Jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/) |
-| 45 | Overview of version control with git and setting up an online repository | [GitHub](https://github.com/) |
+| 45 | Overview of version control with git and setting up an online repository | [GitHub](https://github.com/), [Slides](https://docs.google.com/presentation/d/124caJk5RE7zGbUGjYlG-Jqz69FHQnMW_pbUPkPuRbEk/edit?usp=sharing) |
 | 45 | How to setup a small Python library (though the example is in python, participants are encouraged to use their own research code in whichever language they prefer) | [Scientific Python Cookiecutter](https://nsls-ii.github.io/scientific-python-cookiecutter/index.html) |
 | 15 | Discussion on choosing an open-source license | [Choose a license](https://choosealicense.com/), [OSI Licenses](https://opensource.org/licenses) |
 | 15 | Including a Code of Conduct and Contributing Guidelines | [Contributor Covenant](https://www.contributor-covenant.org/) |
