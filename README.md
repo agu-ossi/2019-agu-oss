@@ -45,7 +45,7 @@ Our aim with this workshop is for participants to:
 
 | Duration (min) | Topic | Tools |
 |:--------------:|:------|:------|
-| 15 | Introduce the motivations and problems that the workshop will address | TODO: link notebook we will use |
+| 15 | Introduce the motivations and problems that the workshop will address | [Example data analysis in Jupyter](http://nbviewer.jupyter.org/github/opengeophysics/2018-agu-oss/blob/master/example-data-analysis.ipynb) |
 | 30 | Describe the example we will working through and provide an overview of the Jupyter notebook | [Jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/) |
 | 45 | Overview of version control with git and setting up an online repository | [GitHub](https://github.com/) |
 | 45 | How to setup a small Python library (though the example is in python, participants are encouraged to use their own research code in whichever language they prefer) | [Scientific Python Cookiecutter](https://nsls-ii.github.io/scientific-python-cookiecutter/index.html) |
