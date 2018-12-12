@@ -12,6 +12,7 @@ Florian M. Wagner
 |Location|Grand Hyatt / Room: Penn Quarter|
 |Time|Wednesday, 12 December 2018 / 13:40 - 18:00|
 |Workshop ID|WS24|
+|Shared notes| [Google Docs](https://docs.google.com/document/d/10AQUoO1wwEixzPib6M42z4cRnI3p35syaVnpFmQmuU0/edit?usp=sharing)|
 
 ## Description
 
