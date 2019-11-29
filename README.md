@@ -1,46 +1,33 @@
 # Best practices for modern open-source research codes
-Material for the workshop at the AGU 2018 Fall Meeting.
+Material for the workshop at the AGU 2019 Fall Meeting.
 
 **Conveners:**
-Leonardo Uieda,
-Lindsey Heagy,
+Rene Gassmoeller,
+Lindsey Justine Heagy,
 Lion Krischer,
-Florian M. Wagner
+Leonardo Uieda,
+Christopher Bane Sullivan
 
 |    |Info|
 |---:|:---|
-|Location|Grand Hyatt / Room: Penn Quarter|
-|Time|Wednesday, 12 December 2018 / 13:40 - 18:00|
-|Workshop ID|WS24|
-|Shared notes| [Google Docs](https://docs.google.com/document/d/10AQUoO1wwEixzPib6M42z4cRnI3p35syaVnpFmQmuU0/edit?usp=sharing)|
+|Location|Grand Hyatt / Room: GB East|
+|Time|Wednesday, 11 December 2019 / 08:00 - 12:20|
+|Workshop ID|SCIWS5|
+|Shared notes| [Google Docs](https://docs.google.com/document/d/1aeyE4ojd16W5nkIb25Nzvzl86aV0JWNHcuNh0BzVC_Y/edit?usp=sharing)|
 
 ## Description
 
-Modern science increasingly relies on code, ranging from small scripts to workflows with
-many interacting parts. Reproducibility and extension of studies employing these codes
-require that they are accessible. The open-source community has established modern
-best-practices for making software available, usable, and maintainable. In this
-workshop, we will demonstrate a workflow for publishing research code following these
-best-practices. We will cover open-source licenses, version control, automated testing,
-documentation, and continuous integration. The workshop will be hands-on: participants
-will work to set up a project using sample code provided by the instructors. By the end,
-participants will have the knowledge needed to continue learning independently and apply
-these practices to their own research code. These resources can be applied to any
-programming language or scientific discipline.
+Modern research software is the basis of scientific progress in geophysics by supporting data collection, data analysis, and numerical simulation. These codes span the range from small one-off scripts developed by individual researchers up to large packages with thousands of users. While there is increasing awareness about best programming practices, scientists are rarely prepared to scale their codes into team projects developed by  larger communities. However, growing a sustainable software project and the community of practice that surrounds it is a prerequisite to make scientific software development more efficient and research more reproducible.
 
+The open-source community has established modern best-practices for developing reliable software, publishing that software, forming communities around the code, and finding sustainable ways to maintain them over time. This hands-on half-day workshop is aimed at scientists currently developing their own software of any size. The participants will apply a workflow for developing and managing open-source research codes following best-practices. We will discuss licensing and privacy considerations for open-source projects in a scientific context, briefly review version control with git and hosting projects online, and teach how to automatically test and efficiently document code. Furthermore, we will discuss how to grow projects and manage communities around it. The course material is independent of programming language or scientific discipline. By the end of this workshop participants will be able to apply the gained knowledge directly to their own projects and create more sustainable research software. 
 
 ## Learning Objectives
 
 Our aim with this workshop is for participants to:
 
-1. Gain awareness of tools available to researchers within the open-source ecosystem
-   including [Jupyter](http://jupyter.org/), [git](https://git-scm.com/),
-   [ReadTheDocs](http://readthedocs.org), continuous integration services (for testing), etc
-2. Learn modern best-practices for structuring a repository for research software that
-   promotes accessibility, reusability, and reproducibility
-3. Learn about the tools available for testing, publishing documentation, and versioning
-   that can be immediately applied to their own codes
-
+1. Learn about modern best-practices for developing, testing, documenting, and publishing research software that promote accessibility, reusability, and reproducibility.
+2. Gain hands-on experience with open-source software development tools available to researchers including Jupyter (for sharing, http://jupyter.org/), git (versioning, https://git-scm.com/), GitHub (collaboration, https://github.com/), ReadTheDocs (documentation, https://readthedocs.org/), and Travis CI (testing, https://travis-ci.org/).
+3. Learn basic concepts of software project management like the life cycle of scientific software, defining a target audience, developing a project mission and vision, building a welcoming community, and approaching scientists uncomfortable with sharing their research software.
 
 ## Tentative Agenda
 
@@ -52,17 +39,20 @@ https://github.com/opengeophysics/2018-agu-oss-example-repo
 
 | Duration (min) | Topic | Tools |
 |:--------------:|:------|:------|
-| 15 | Introduce the motivations and problems that the workshop will address | [Example data analysis in Jupyter](http://nbviewer.jupyter.org/github/opengeophysics/2018-agu-oss/blob/master/example-data-analysis.ipynb) |
-| 30 | Describe the example we will working through and provide an overview of the Jupyter notebook | [Jupyter notebook](https://jupyter-notebook.readthedocs.io/en/stable/) |
-| 45 | Overview of version control with git and setting up an online repository | [GitHub](https://github.com/), [Slides](https://docs.google.com/presentation/d/124caJk5RE7zGbUGjYlG-Jqz69FHQnMW_pbUPkPuRbEk/edit?usp=sharing) |
-| 45 | How to setup a small Python library (though the example is in python, participants are encouraged to use their own research code in whichever language they prefer) | [Python packaging guide](https://packaging.python.org/tutorials/packaging-projects/#creating-setup-py) |
-| 15 | Discussion on choosing an open-source license | [Choose a license](https://choosealicense.com/), [OSI Licenses](https://opensource.org/licenses) |
+| 15 | Motivations for community research software and its technical and social challenges. Software as a project, not a collection of files| |
+| 15 | Discussion with presenters and participants about prior experiences with technical and social challenges | |
+| 20 | Define target audience, mission, vision, and life cycle of the participant’s software projects | |
+| 20 | Introduce the example we will work through and provide the Jupyter notebook | |
+| 20 | Practical review of version control with git and setting up an online repository on GitHub with the provided example project (a small python library, participants are encouraged to instead use their own research code in whichever language) | |
+| 5 | Break | |
+| 15 | Introduction to open-source and how to choose an open-source license | [Choose a license](https://choosealicense.com/), [OSI Licenses](https://opensource.org/licenses) |
 | 15 | Including a Code of Conduct and Contributing Guidelines | [Contributor Covenant](https://www.contributor-covenant.org/) |
-| 30 | How to write automated tests in Python | [Pytest](https://docs.pytest.org/en/latest/contents.html) |
-| 30 | Setup continuous integration services to check that the code is tested on every update | [TravisCI](https://docs.travis-ci.com/user/languages/python/) |
-| 30 | Write and publish documentation on ReadTheDocs, a free hosting service for open source software projects | [ReadTheDocs](http://readthedocs.org) |
-| 15 | Overview of other resources available within the open source community | |
-
+| 15 | Managing communication and building a welcoming community | |
+| 30 | Why and how to write tests | |
+| 15 | Setup continuous integration services to automate tests | |
+| 10 | Break |  |
+| 30 | Importance of documentation and naming conventions. How to write and publish documentation. | [ReadTheDocs](http://readthedocs.org) |
+| 15 | Overview on further resources available within the open source community (best-practice guides, developer communities, software organizations) | |
 
 ## *Before* the workshop
 
@@ -104,7 +94,7 @@ guides to extend and deepen some of the taught concepts.
 
 [![recording-AGU](https://img.youtube.com/vi/Ck3f8Dbk98U/0.jpg)](https://youtu.be/Ck3f8Dbk98U)
 
-Workshop - AGU 2018
+Workshop - AGU 2019
 
 ## License
 
