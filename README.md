@@ -1,4 +1,5 @@
-# Best practices for modern open-source research codes
+# Best Practices for Developing and Sustaining Your Open-Source Research Software
+
 Material for the workshop at the AGU 2019 Fall Meeting.
 
 **Conveners:**
