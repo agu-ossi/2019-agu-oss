@@ -15,6 +15,7 @@ Christopher Bane Sullivan
 |Time|Wednesday, 11 December 2019 / 08:00 - 12:20|
 |Workshop ID|SCIWS5|
 |Shared notes| [Google Docs](https://docs.google.com/document/d/1aeyE4ojd16W5nkIb25Nzvzl86aV0JWNHcuNh0BzVC_Y/edit?usp=sharing)|
+|Slides| [Slides](https://docs.google.com/presentation/d/1Ar6ymeBkP2BJ41xEt2H5XRXBh0vjn2oQJrmY_1vXExg/edit#slide=id.p)|
 
 ## Description
 
