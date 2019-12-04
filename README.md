@@ -16,6 +16,7 @@ Christopher Bane Sullivan
 |Workshop ID|SCIWS5|
 |Shared notes| [Google Docs](https://docs.google.com/document/d/1aeyE4ojd16W5nkIb25Nzvzl86aV0JWNHcuNh0BzVC_Y/edit?usp=sharing)|
 |Slides| [Slides](https://docs.google.com/presentation/d/1Ar6ymeBkP2BJ41xEt2H5XRXBh0vjn2oQJrmY_1vXExg/edit#slide=id.p)|
+|Feedback| [Mentimeter](https://www.menti.com/2jc4ixza4o)
 
 ## Description
 
@@ -47,13 +48,14 @@ https://github.com/opengeophysics/2018-agu-oss-example-repo
 | 20 | Introduce the example we will work through and provide the Jupyter notebook | |
 | 20 | Practical review of version control with git and setting up an online repository on GitHub with the provided example project (a small python library, participants are encouraged to instead use their own research code in whichever language) | |
 | 5 | Break | |
-| 15 | Introduction to open-source and how to choose an open-source license | [Choose a license](https://choosealicense.com/), [OSI Licenses](https://opensource.org/licenses) |
-| 15 | Including a Code of Conduct and Contributing Guidelines | [Contributor Covenant](https://www.contributor-covenant.org/) |
 | 15 | Managing communication and building a welcoming community | |
+| 15 | Including a Code of Conduct and Contributing Guidelines | [Contributor Covenant](https://www.contributor-covenant.org/) |
+| 15 | Introduction to open-source and how to choose an open-source license | [Choose a license](https://choosealicense.com/), [OSI Licenses](https://opensource.org/licenses) |
 | 30 | Why and how to write tests | |
-| 15 | Setup continuous integration services to automate tests | |
+| 15 | How to setup continuous integration services to automate tests | |
 | 10 | Break |  |
-| 30 | Importance of documentation and naming conventions. How to write and publish documentation. | [ReadTheDocs](http://readthedocs.org) |
+| 15 | Importance of documentation and naming conventions. How to write and publish documentation. | [ReadTheDocs](http://readthedocs.org) |
+| 15 | Q&A this time block will be distributed over sessions as necessary | |
 | 15 | Overview on further resources available within the open source community (best-practice guides, developer communities, software organizations) | |
 
 ## *Before* the workshop
