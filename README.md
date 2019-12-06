@@ -95,7 +95,7 @@ guides to extend and deepen some of the taught concepts.
 - **Documentation**
   - [MkDocs](https://www.mkdocs.org): Fast and simple project documentation using Markdown.
 
-## Recording
+## Recording of AGU 2018 (slightly different focus)
 
 [![recording-AGU](https://img.youtube.com/vi/Ck3f8Dbk98U/0.jpg)](https://youtu.be/Ck3f8Dbk98U)
 
