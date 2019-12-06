@@ -11,7 +11,7 @@ Christopher Bane Sullivan
 
 |    |Info|
 |---:|:---|
-|Location|Grand Hyatt / Room: GB East|
+|Location|Grand Hyatt / Room: Conference Theatre (Theatre level)|
 |Time|Wednesday, 11 December 2019 / 08:00 - 12:20|
 |Workshop ID|SCIWS5|
 |Shared notes| [Google Docs](https://docs.google.com/document/d/1aeyE4ojd16W5nkIb25Nzvzl86aV0JWNHcuNh0BzVC_Y/edit?usp=sharing)|
@@ -44,16 +44,17 @@ https://github.com/opengeophysics/2018-agu-oss-example-repo
 |:--------------:|:------|:------|
 | 15 | Motivations for community research software and its technical and social challenges. Software as a project, not a collection of files| |
 | 15 | Discussion with presenters and participants about prior experiences with technical and social challenges | |
-| 20 | Define target audience, mission, vision, and life cycle of the participant’s software projects | |
+| 15 | Define target audience, mission, vision, and life cycle of the participant’s software projects | |
+| 5 | Break | |
 | 20 | Introduce the example we will work through and provide the Jupyter notebook | |
 | 20 | Practical review of version control with git and setting up an online repository on GitHub with the provided example project (a small python library, participants are encouraged to instead use their own research code in whichever language) | |
-| 5 | Break | |
 | 15 | Managing communication and building a welcoming community | |
 | 15 | Including a Code of Conduct and Contributing Guidelines | [Contributor Covenant](https://www.contributor-covenant.org/) |
+| 15 | Coffee Break |  |
 | 15 | Introduction to open-source and how to choose an open-source license | [Choose a license](https://choosealicense.com/), [OSI Licenses](https://opensource.org/licenses) |
 | 30 | Why and how to write tests | |
-| 15 | How to setup continuous integration services to automate tests | |
-| 10 | Break |  |
+| 15 | How to set up continuous integration services to automate tests | |
+| 5 | Break | |
 | 15 | Importance of documentation and naming conventions. How to write and publish documentation. | [ReadTheDocs](http://readthedocs.org) |
 | 15 | Q&A this time block will be distributed over sessions as necessary | |
 | 15 | Overview on further resources available within the open source community (best-practice guides, developer communities, software organizations) | |
