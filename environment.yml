@@ -1,0 +1,16 @@
+name: agu-ossi-2019
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets
+  - mkl
+  - discretize
+  - geoana
+  - SimPEG
+  - pymatsolver
