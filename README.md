@@ -1,5 +1,7 @@
 # Best Practices for Developing and Sustaining Your Open-Source Research Software
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agu-ossi/2019-agu-oss/master)
+
 Material for the workshop at the AGU 2019 Fall Meeting.
 
 **Conveners:**
