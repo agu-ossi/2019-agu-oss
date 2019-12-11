@@ -8,7 +8,7 @@ Material for the workshop at the AGU 2019 Fall Meeting.
 Rene Gassmoeller,
 Lindsey Justine Heagy,
 Lion Krischer,
-Leonardo Uieda,
+Leonardo Uieda, # hey leo, thanks for the awesome class
 Christopher Bane Sullivan
 
 |    |Info|
